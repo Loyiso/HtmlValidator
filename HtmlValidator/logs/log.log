@@ -1,0 +1,2 @@
+2017-03-10 14:13:37,892 ERROR [9] Program - File Path: C:\Users\Loyison\Documents\Test Files\index.html , File Name: index.html , Error: Start tag <spajn> was not found, line: 1
+2017-03-10 14:13:37,901 ERROR [9] Program - File Path: C:\Users\Loyison\Documents\Test Files\index.html , File Name: index.html , Error: End tag </span> was not found, line: 1
